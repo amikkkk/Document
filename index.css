@@ -1,0 +1,48 @@
+header{
+    display: flex;
+    margin-left: 58px;
+    margin-top: 16px;
+}
+nav{
+    font-size: 30px;
+    margin-left: 66px;
+    margin-top: 20px;
+}
+.str{
+    display: flex;
+    margin-left: 146px;
+}
+body{
+    background: #6a8296;
+    background-blend-mode: lighten;
+    font-family: 'Jost', sans-serif;
+}
+main{
+    height: 594px;
+width: 1292px;
+margin-left: 58px;
+margin-top: 100px;
+border-radius: 0px;
+background: #525252;
+display: flex;
+justify-content: space-around;
+}
+.el1{
+    padding-top: 20px;
+    margin-left: 20px;
+    width: 272px;
+}
+.photo{
+    display: flex;
+}
+.text{
+    color: aliceblue;
+}
+.i2{
+    margin-left: 10px;
+}
+
+footer{
+    justify-content: flex-start;
+    display: flex;
+}
